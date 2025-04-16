@@ -1,0 +1,13 @@
+name: GEOMAP
+title: GEOMAP
+username: luispa2025
+account: luispa2025
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14541037
+bundleId: 10127383
+url: https://luispa2025.shinyapps.io/GEOMAP/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: L2.qmd|STE_Cablebus_estaciones_utm14n.cpg|STE_Cablebus_estaciones_utm14n.dbf|STE_Cablebus_estaciones_utm14n.prj|STE_Cablebus_estaciones_utm14n.shp|STE_Cablebus_estaciones_utm14n.shp.xml|STE_Cablebus_estaciones_utm14n.shx|T2.qmd
